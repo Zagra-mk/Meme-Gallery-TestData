@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Дрейк",
+    "url": "https://example.com/drake.jpg",
+    "tags": ["классика", "реакция"]
+  },
+  {
+    "id": 2,
+    "title": "Это тонко",
+    "url": "https://example.com/fine.jpg",
+    "tags": ["ирония"]
+  },
+  {
+    "id": 3,
+    "title": "Собака на пожаре",
+    "url": "https://example.com/dog.jpg",
+    "tags": ["this is fine", "ситуация"]
+  },
+  {
+    "id": 4,
+    "title": "Удивлённый Пикачу",
+    "url": "https://example.com/pikachu.jpg",
+    "tags": ["шок"]
+  },
+  {
+    "id": 5,
+    "title": "Женщина и кот",
+    "url": "https://example.com/cat.jpg",
+    "tags": ["крик", "злость"]
+  }
+]
